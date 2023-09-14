@@ -17,7 +17,7 @@ public class BgPanel extends JPanel {
     public BgPanel(){
         this.setVisible(true);
         this.setLayout(null);
-        icon = new ImageIcon("D:\\Java work\\untitled\\src\\images\\bg4.jpeg");
+        icon = new ImageIcon("src/images/bg4.jpeg");
         img = icon.getImage();
 
 

@@ -10,7 +10,7 @@ public class ImgPanel extends JPanel {
    private ImageIcon icon;
    private Image img;
     public ImgPanel(){
-        icon = new ImageIcon("images\bg.jpeg");
+        icon = new ImageIcon("src/images/bg.jpeg");
         img = icon.getImage();
         setLayout(null);
 
